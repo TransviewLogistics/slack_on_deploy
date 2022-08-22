@@ -20,16 +20,18 @@ module SlackOnDeploy
 
     attr_accessor :slack_pings, :deploy_msg, :num_seconds_between_pings
 
+    # Click dropdown next to username when chat is open with them > View full profile > click 3 dots > Copy member ID
     def username_mapping
       {
         'calvin' => 'U02B898JW',
         'damon' => 'UUUEL7SCD',
         'zach' => 'UL7714L84',
-        'ronan' => 'U01HVT5UC0M',
-        'facundo' => 'UNY480D89',
-        'guillermo' => 'UQ35MNMAS',
-        'leandro' => 'U01CTCN31A9',
-        'mike' => 'U0RDXDMU0'
+        'mike' => 'U0RDXDMU0',
+        'scott' => 'U03TPQ6F7SN',
+        'juan' => 'U032G9E31GQ',
+        'jose' => 'U031URW202Y',
+        'fernando' => 'U038C2ZRD2M',
+        'nicolas' => 'U036SSXCR6J'
       }
     end
 
