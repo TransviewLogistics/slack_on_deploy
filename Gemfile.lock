@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    slack_on_deploy (0.1.1)
+    slack_on_deploy (0.1.2)
       redis
       slack-notifier (~> 2.3)
 
