@@ -31,7 +31,11 @@ module SlackOnDeploy
         'juan' => 'U032G9E31GQ',
         'jose' => 'U031URW202Y',
         'fernando' => 'U038C2ZRD2M',
-        'nicolas' => 'U036SSXCR6J'
+        'nicolas' => 'U036SSXCR6J',
+        'dylan' => 'U058Z6Q01M2',
+        'franco' => 'U05RDKS16KH',
+        'mark' => 'U053NQKBPEJ',
+        'joel' => 'U068WUGRNJZ'
       }
     end
 
